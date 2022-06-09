@@ -5,13 +5,12 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: "AIzaSyCgrhaeCK9bbhovbnBD8ReWWaZv-O7ck-g",
-    authDomain: "proyecto-appmovil-2022a.firebaseapp.com",
-    projectId: "proyecto-appmovil-2022a",
-    storageBucket: "proyecto-appmovil-2022a.appspot.com",
-    messagingSenderId: "728856571351",
-    appId: "1:728856571351:web:cf7f1a1e88d495f2b4ef92",
-    measurementId: "G-1V4NZ4K45G"
+    apiKey: "AIzaSyDd7ph_KivjtWK6KSfRQDQ55t51dOHtrAU",
+    authDomain: "appmoviles-1.firebaseapp.com",
+    projectId: "appmoviles-1",
+    storageBucket: "appmoviles-1.appspot.com",
+    messagingSenderId: "652224415944",
+    appId: "1:652224415944:web:e8747c3765eb197350fdfd"
   }
   
 };
